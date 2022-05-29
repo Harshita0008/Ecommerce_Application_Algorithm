@@ -93,7 +93,7 @@ azure montior.
 DEMYSTIFYING THE THREE PHASES OF PROJECT 
 
 #### - Phase-1 (May 9):
- The goal in this phase is to project initiation planning, researching and designing - choosing ALGORITHMS project among three projects looking at the goals and project scope. Researching about app category to implement and execute recommendation engine. Designing accessible, consistent and basic UI/UX of the application including the functionalities and desiginations. I search for tutorials, chosen across platforms app development i.e. FLUTTER which supports DART as programming language.
+ The goal in this phase is project initiation planning, researching and designing - choosing ALGORITHMS project among three projects looking at the goals and project scope. Researching about app category to implement and execute recommendation engine. Designing accessible, consistent and basic UI/UX of the application including the functionalities and desiginations. I search for tutorials, chosen across platforms app development i.e. FLUTTER which supports DART as programming language.
 
 #### - Phase-2 (May 16):
  In the mid phase, built actionable and visual appealing features - Started the development process by taking help from my mentor and internet resources. Added significant dependencies and packages which supported app accordingly. Made required changes as per the UI and structure to make it more attractive.
