@@ -6,7 +6,8 @@
      * [E-commerce Application ](#E-commerceApplication:)
      * [Alogorithm Used](#AlogorithmUsed)
      * [Primary Features](#PrimaryFeatures)
-     *  [Compatible Platforms](#CompatiblePlatforms)
+     * [Compatible Platforms](#CompatiblePlatforms)
+     * [Built through](#Builtthrough)
 * 2. [Agile Methodology](#AgileMethodology)
       * [What is Agile:](#what-is-Agile)
       *  [How I Incorporated Agile Methodology during The Development Schedule (May 9 - May 26)](#HowIIncorporatedAgileMethodologyduringTheDevelopmentSchedule)
@@ -72,7 +73,7 @@ Algorithms E-commerce application project built during Microsoft Engage 2022 pro
 ## => <a name='CompatiblePlatforms'></a>Compatible Platforms
   Android and Ios
  
-## => Built With
+## => <a name='Built through'></a>Built through
 ![Front](https://user-images.githubusercontent.com/106453092/170881453-a4a951cf-6959-4a09-8cd5-66929f24d008.PNG)
 
   
