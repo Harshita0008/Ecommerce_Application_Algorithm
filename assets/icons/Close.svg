@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="1" height="1">
+
+<defs>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="1" x1="1" y1="0" x2="31.000002" y2="0">
+        <stop stop-color="#FF454A" offset="0%"/>
+        <stop stop-color="#FF454A" offset="100%"/>
+    </linearGradient>
+</defs>
+
+<g transform="matrix(0.03125 0 0 0.03125 0 0)">
+    <path d="M31 16C 31.000002 20.142136 29.535536 23.67767 26.606602 26.606602C 23.67767 29.535536 20.142136 31.000002 16 31C 11.857864 31.000002 8.32233 29.535536 5.3933983 26.606602C 2.464466 23.67767 1 20.142136 1 16C 1 11.857864 2.464466 8.32233 5.3933983 5.3933983C 8.32233 2.464466 11.857864 1 16 1C 20.142136 1 23.67767 2.464466 26.606602 5.3933983C 29.535536 8.32233 31.000002 11.857864 31 16C 31.000002 16.174551 30.996956 16.349049 30.990864 16.523493" stroke="#000000" stroke-width="2" fill="url(#1)" />
+    <path d="M22 10C 23 9 9 23 10 22M10 10C 9 9 23 23 22 22" stroke="#000000" stroke-width="3.5" fill="#000000" fill-rule="nonzero" />
+</g>
+</svg>

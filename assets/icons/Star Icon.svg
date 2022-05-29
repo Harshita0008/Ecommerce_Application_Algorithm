@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="20" height="15">
+
+<defs>
+    <radialGradient cx="54.21819%" cy="93.21962%" r="127.08058%" gradientUnits="objectBoundingBox" id="1">
+        <stop offset="0%" stop-color="#FFFF27" stop-opacity="1"/>
+        <stop offset="25%" stop-color="#FFFA26" stop-opacity="1"/>
+        <stop offset="50%" stop-color="#F7CA19" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#E37A07" stop-opacity="1"/>
+    </radialGradient>
+<mask id="398">
+<path  transform="matrix(1 0 0 0.94966 0 2.3759)"   d="M93.974 47.199C 93.974 58.605034 89.43814 69.55557 81.372856 77.62086C 73.30757 85.68614 62.357033 90.222 50.951 90.222C 39.544968 90.222 28.594429 85.68614 20.529146 77.62086C 12.463863 69.55557 7.9280014 58.605034 7.9280014 47.199C 7.9280014 35.79297 12.463863 24.84243 20.529146 16.777147C 28.594429 8.711864 39.544968 4.1760025 50.951 4.1760025C 62.357033 4.1760025 73.30757 8.711864 81.372856 16.777147C 89.43814 24.84243 93.974 35.79297 93.974 47.199z" fill="white"/>
+</mask>
+</defs>
+
+<g transform="matrix(0.18356484 0 0 0.18356484 2.1024904 -0)">
+	<g transform="matrix(1 0 0 1 -7.9275 -6.3417)">
+        <path d="M36.536 32.822C 49.235 0.9659977 49.704998 1.0879993 62.891 31.761698C 97.041 33.959698 102.274994 41.3835 69.4041 55.693695C 89.2251 101.7417 68.61257 84.0757 49.5621 68.8717C 27.2051 93.8847 20.022099 91.5107 30.7801 56.754696C 23.4988 48.253296 -14.314901 38.012695 36.5359 32.822697L36.5359 32.822697L36.536 32.822z" stroke="#000000" stroke-width="5" stroke-linecap="square" mask="url(#398)" fill="url(#1)"  />
+	</g>
+</g>
+</svg>

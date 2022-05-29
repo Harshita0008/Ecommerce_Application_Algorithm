@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="45" height="25">
+
+<defs>
+        <clipPath  id="1">
+
+            <path clip-rule="evenodd" d="M0 0L560 0L560 315L0 315z" />        </clipPath>
+</defs>
+
+<g transform="matrix(0.07936509 0 0 0.07936509 0.2777778 -0)">
+	<g clip-path="url(#1)" >
+        <path d="M339.143 86.857L431.143 86.857L431.143 265.14C 431.143 288.243 412.386 307 389.283 307L389.283 307L339.143 307L339.143 86.857z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#5BBDE8" fill-rule="nonzero" />
+        <path d="M339.143 211.714L339.143 307L170.717 307C 147.614 307 128.857 288.243 128.857 265.14L128.857 265.14L128.857 211.714L339.143 211.714z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+        <path d="M339.143 211.714L339.143 86.857L128.857 86.857L128.857 211.714L339.143 211.714z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#5BBDE8" fill-rule="nonzero" />
+        <path d="M431.143 86.857L431.143 49.86C 431.143 26.757 412.386 8 389.283 8L389.283 8L170.717 8C 147.614 8 128.857 26.757 128.857 49.86L128.857 49.86L128.857 86.857L431.143 86.857z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FF5855" fill-rule="nonzero" />
+        <path d="M128.857 57.286L431.143 57.286L449.214 100L110.786 100L128.857 57.286z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+		<g>
+            <path d="M109.964 104.929L109.964 136.143C 109.964 146.117 118.062 154.214 128.036 154.214C 138.01 154.214 146.107 146.117 146.107 136.143L146.107 136.143L146.107 104.929L109.964 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M413.893 104.929L413.893 136.143C 413.893 146.117 421.99 154.214 431.964 154.214C 441.938 154.214 450.036 146.117 450.036 136.143L450.036 136.143L450.036 104.929L413.893 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M375.902 104.929L375.902 136.143C 375.902 146.117 383.999 154.214 393.973 154.214C 403.947 154.214 412.045 146.117 412.045 136.143L412.045 136.143L412.045 104.929L375.902 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M299.92 104.929L299.92 136.143C 299.92 146.117 308.017 154.214 317.991 154.214C 327.965 154.214 336.063 146.117 336.063 136.143L336.063 136.143L336.063 104.929L299.92 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M337.911 104.929L337.911 136.143C 337.911 146.117 346.008 154.214 355.982 154.214C 365.956 154.214 374.054 146.117 374.054 136.143L374.054 136.143L374.054 104.929L337.911 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M261.929 104.929L261.929 136.143C 261.929 146.117 270.026 154.214 280 154.214C 289.974 154.214 298.071 146.117 298.071 136.143L298.071 136.143L298.071 104.929L261.929 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M223.938 104.929L223.938 136.143C 223.938 146.117 232.035 154.214 242.009 154.214C 251.983 154.214 260.08 146.117 260.08 136.143L260.08 136.143L260.08 104.929L223.938 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M185.946 104.929L185.946 136.143C 185.946 146.117 194.044 154.214 204.018 154.214C 213.992 154.214 222.089 146.117 222.089 136.143L222.089 136.143L222.089 104.929L185.946 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+            <path d="M147.955 104.929L147.955 136.143C 147.955 146.117 156.053 154.214 166.027 154.214C 176.001 154.214 184.098 146.117 184.098 136.143L184.098 136.143L184.098 104.929L147.955 104.929z" stroke="#000000" stroke-width="6.571" stroke-linecap="round" fill="#FFDD7B" fill-rule="nonzero" />
+		</g>
+        <path d="M362.143 211.714L375.286 211.714C 377.099 211.714 378.571 213.187 378.571 215C 378.571 216.813 377.099 218.286 375.286 218.286L375.286 218.286L362.143 218.286C 360.329 218.286 358.857 216.813 358.857 215C 358.857 213.187 360.329 211.714 362.143 211.714z" stroke="none" fill="#000000" fill-rule="nonzero" />
+	</g>
+</g>
+</svg>
