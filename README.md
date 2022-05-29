@@ -71,11 +71,7 @@ Algorithms E-commerce application project built during Microsoft Engage 2022 pro
     
 ## => <a name='CompatiblePlatforms'></a>Compatible Platforms
   Android and Ios
-
-# Built Through
-![](images/Back.png)
-
-![](images/Front.png)
+  
 
 #  2. <a name='AgileMethodology'></a>Agile Methodology
 ### What is Agile - 
