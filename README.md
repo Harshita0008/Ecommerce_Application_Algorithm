@@ -71,6 +71,13 @@ Algorithms E-commerce application project built during Microsoft Engage 2022 pro
     
 ## => <a name='CompatiblePlatforms'></a>Compatible Platforms
   Android and Ios
+ 
+## => Built With
+![Front](https://user-images.githubusercontent.com/106453092/170881453-a4a951cf-6959-4a09-8cd5-66929f24d008.PNG)
+
+  
+  ![Back](https://user-images.githubusercontent.com/106453092/170880828-39efbb3e-f175-46a9-ad06-16fd24935a66.PNG)
+
   
 
 #  2. <a name='AgileMethodology'></a>Agile Methodology
@@ -118,6 +125,24 @@ Make sure to add SVG dependencies which willhelp us to use SVG in our app
 To Run the application 
 
     Press F5 and run the application on window. We can resize the window to view the app in form of android phones. 
+    
+# 4. Navigating through the App
+
+![1stscreen - Copy](https://user-images.githubusercontent.com/106453092/170881513-3d4c8411-b661-45a9-ba0f-a8d0cebe0752.png)
+
+![2ndscreeen - Copy](https://user-images.githubusercontent.com/106453092/170881528-c05052c9-facb-48d3-92f3-cea8953cd752.png)
+![forgotpass](https://user-images.githubusercontent.com/106453092/170882123-476b6bba-b16d-435f-9c85-fa6d40476210.png)
+![loginsuccess](https://user-images.githubusercontent.com/106453092/170881546-382d3207-0419-4442-b83c-dd4fb73789ed.png)
+![register](https://user-images.githubusercontent.com/106453092/170881833-a33b9e20-1d4c-4dc7-91b9-758d3ac1f835.png)
+![completeprofile - Copy](https://user-images.githubusercontent.com/106453092/170881561-a716592d-4098-49c9-a1cf-ae39b394d6fa.png)
+![otp](https://user-images.githubusercontent.com/106453092/170882104-9c60a143-3ee5-47bd-9623-2cf53fd52a2e.png)
+![home page 2](https://user-images.githubusercontent.com/106453092/170881604-6c832c04-1af6-4f40-81c5-aab9ed2d26b0.png)
+![xbox](https://user-images.githubusercontent.com/106453092/170881854-d37f316e-bd9b-4d04-afad-c2426315fc2f.png)
+[xbox2](https://user-images.githubusercontent.com/106453092/170881644-9fb2ba27-9379-4f45-abbf-40b92b8ecd70.png)
+![xbox3](https://user-images.githubusercontent.com/106453092/170881869-1e9466e9-1eae-443d-8395-d0428ce3e5bd.png)
+![shorts](https://user-images.githubusercontent.com/106453092/170881669-8be17284-9276-4891-ae38-b84991ea7aab.png)
+![cart - Copy](https://user-images.githubusercontent.com/106453092/170881622-b991fe26-8432-4e25-832d-fafd0077d013.png)
+![userprofile](https://user-images.githubusercontent.com/106453092/170881629-d2cd4d70-3500-4e7d-ad5b-c9eecfadee61.png)
 
 # 4. Challenges Faced and Overcoming them
 - #### Problem: 
