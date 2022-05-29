@@ -145,7 +145,7 @@ To Run the application
 ![cart - Copy](https://user-images.githubusercontent.com/106453092/170881622-b991fe26-8432-4e25-832d-fafd0077d013.png)
 ![userprofile](https://user-images.githubusercontent.com/106453092/170881629-d2cd4d70-3500-4e7d-ad5b-c9eecfadee61.png)
 
-# 4. Challenges Faced and Overcoming them
+# 5. Challenges Faced and Overcoming them
 - #### Problem: 
     Encountered with the problem of pixels and renderflex owerflowing.
     #### Solution: 
@@ -161,8 +161,6 @@ To Run the application
 
     #### Solution:
     To reduce the memory consumption, removed unused importing of libraries and simplified the code.
-
-# App
 
 
 ##  8. <a name='ResourcesUsed'></a>Resources Used
