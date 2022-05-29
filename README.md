@@ -119,7 +119,7 @@ Version and Sdk environment should be
     
     environment:sdk: '>=2.12.0 <3.0.0'
 
-Make sure to add SVG dependencies which willhelp us to use SVG in our app
+Make sure to add SVG dependencies which will help us to use SVG in our app
 
     flutter_svg: ^0.22.0
 
