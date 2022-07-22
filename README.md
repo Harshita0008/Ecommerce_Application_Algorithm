@@ -83,7 +83,7 @@ Algorithms E-commerce application project built during Microsoft Engage 2022 pro
 
 #  2. <a name='AgileMethodology'></a>Agile Methodology
 ### What is Agile - 
-It is a way to manage a project by breaking it up into several phases. It involves constant collabration and continues improvement at every stage.
+It is a way to manage a project by breaking it up into several phases. It involves constant collaboration and continues improvement at every stage.
 
 ##   <a name='HowIIncorporatedAgileMethodologyduringTheDevelopmentSchedule'></a>How I Incorporated Agile Methodology during The Development Schedule
 AZURE DEVOPS is a microsoft product that provides version control, reporting, requirements management, product management capabilities.
