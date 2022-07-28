@@ -36,7 +36,7 @@ Algorithms E-commerce application project built during Microsoft Engage 2022 pro
 
 ##  => <a name='AlogorithmUsed'></a>Alogorithm Used
 
-   - Based on the interest of a user by collecting prefrences, information and evaluation of past behaviour i.e "Collabrative Filtering".
+   - Based on the interest of a user by collecting preferences, information and evaluation of past behavior that is "Collaborative  Filtering".
    - Using the cosine similarity to measure the similarity between the pair of vectors.
    - Recommend items that are similar to the user's highly preferred items.
 
